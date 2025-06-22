@@ -67,8 +67,7 @@ The Next.js application will start on port 3000 by default.
 
 ## API Documentation
 
-View the complete API reference in Postman:
-[Postman Collection](https://api.postman.com/collections/22360984-81ec2f46-6552-4035-aca5-6cf710ccd99e?access_key=PMAT-01JYBGQ954YCT2AB9YM4CH9MEK)
+View the complete API reference in Postman .. see `api-doc.txt` file
 
 ## Features Implemented
 
